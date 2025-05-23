@@ -5,9 +5,8 @@ An open-source Gameboy sized handheld NES using real hardware
 
 TinyTendo is a complex project that has taken a ton of effort, and despite now being open source should still be considered somewhat experimental, should you find anything that isn't quite right, please file an issue.
 
-Additionally, TinyTendo requires physically cutting and grinding ORIGINAL NES chips down smaller, this is a difficult, tedious, and risky process. 
-
-You could KILL the chips if this is not done correctly, do this at your own risk, I am not responsible for damage to any hardware resulting from attempting to build this project.
+This is 100% untested fork of the original project. I wanted to see if it was physically possible. There has been very minimal effort placed into this as of this point. No hardware has been printed, no PCB's ordered. This purely was a quick exercise in PCB layout to see if it was possible.
+Currently the board has been laid out and visually checked for fitment in the Fusion model; it appears to fit. No functionality of PCB has been tested; the trace layout was quick and could be vastly improved (though this may be functional as is).
 
 ## Repository Structure:
 
